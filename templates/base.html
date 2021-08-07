@@ -4,11 +4,19 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!--Bootstrap-->
+  <link rel="stylesheet" href="{{ url_for('static', filename='vendor/bootstrap/css/bootstrap.min.css') }}">
+  <!--Bootstrap/-->
+  
+  <!--CSS-->
   <link rel="stylesheet" href="{{url_for('static', filename='css/clean-blog.min.css')}}">
+  <!--CSS/-->
+  
   <title>Hello tony</title>
 </head>
 <body>
 
+  <!--Navbar-->
   <nav class="navbar">
     <ul>      
       <li><a href="{{ url_for('index') }}">Home</a></li>
@@ -17,7 +25,8 @@
       <li><a href="{{ url_for('game') }}">Game</a></li>      
     </ul>
   </nav>
-
+  <!--Navbar/-->
+  
   {% block content %}
   {% endblock %}
   
