@@ -32,8 +32,12 @@
       {% endif %}
 
     </div>
+
+    {% if loop.index != loop.length %}
     
-    <hr class="featirette-divider">
+      <hr class="featirette-divider">
+
+    {% endif %}
   
   {% endfor %}
 {% endblock %}  
