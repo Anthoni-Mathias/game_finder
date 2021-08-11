@@ -20,7 +20,7 @@ def about():
   return render_template("about.html", page_title="About", company =data)  
 
 
-@app.route("/contact")
+@app.route("/contact", methods=["GET", "POST"])
 def contact():
   return render_template("contact.html", page_title="Contact")  
 
