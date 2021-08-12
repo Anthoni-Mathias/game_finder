@@ -2,7 +2,7 @@ import os
 import json
 from flask import Flask, render_template, request, flash
 if os.path.exists("env.py"):
-  import env
+    import env
 
 
 app = Flask(__name__)
@@ -25,9 +25,10 @@ def about():
 
 @app.route("/contact", methods=["GET", "POST"])
 def contact():
-  if request.method == "POST":
-    flash("Thanks {}, we have received your message!".format(request.form.get("name")))
-  return render_template("contact.html", page_title="Contact")  
+    if request.method == "POST":
+        flash("Thanks {}, we have received your message!".format(
+            request.form.get("name")))
+    return render_template("contact.html", page_title="Contact")  
 
 
 @app.route("/game")
