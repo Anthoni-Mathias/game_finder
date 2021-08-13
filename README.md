@@ -22,7 +22,6 @@
   - [**Tools**](#Tools)
   - [**Libraries**](#Libraries)
   - [**Frameworks**](#Frameworks)
-  - [**Database**](#Database)
   - [**Hosting**](#Hosting)
 - [**Testing**](#Testing)
   - [**Browsers**](#Browsers)
