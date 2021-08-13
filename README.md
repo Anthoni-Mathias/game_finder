@@ -39,7 +39,7 @@
   - [**Disclaimer**](#Disclaimer) 
 
 ## About
-This application is a blog and was created for users to get inspired and share anything related to games. Users can create add as many blog posts as they like for free!
+This application is a blog and was created for users to get inspired and share anything related to games. In the and in the future I will be implementing content for the user to post their experiences and create add as many blog posts as they like for free!.
 
 ## Why This Project?
 This application was created for my 3rd Milestone Project with Python for [Code Institute](https://codeinstitute.net/). I used Python and a flask.
