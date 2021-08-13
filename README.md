@@ -56,6 +56,7 @@ I researched tutorials with Python and Flask on Youtube and Udemy, to understand
 ### Design
 I wanted a white color scheme for this project to give a clean look. For the background I used a white and I kept the color of the navbar, footer and buttons the same white color scheme. All forms have a white background with black text and icons.
 
+## Features
 ### Existing Features
 - **Flash Messages** - 
 Based on the user interaction, flash messages are displayed at the top of the page right below the navbar. Flash messages let users know that their actions are successfully completed.
