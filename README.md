@@ -4,3 +4,5 @@
 
 <p align=center>
 <a href="https://game-finde.herokuapp.com/">Open App</a></p>
+
+## Table of Content
