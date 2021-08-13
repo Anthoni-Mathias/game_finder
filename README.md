@@ -124,9 +124,8 @@ JavaScript was used to create the main functional logic of this app.
 
 Python was used as the back-end programming language for this app.
 
-5. [Flask](https://en.wikipedia.org/wiki/Flask_(web_framework))
-
-Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries.
+5. [PHP](https://www.scriptcase.net/?gclid=CjwKCAjwsNiIBhBdEiwAJK4khmSfz-_RG_PObsGP4oyTx99t8bi3EYeiF1vTOxxeThr9aDxys-bZjxoCxA8QAvD_BwE)
+PHP is a general-purpose scripting language geared towards web development.
 
 ### Tools 
 1. [Git](https://git-scm.com/)
@@ -146,9 +145,7 @@ Chrome DevTools is a set of web developer tools built directly into the Google C
 
 2. Fonts were taken from [Google Fonts](https://fonts.google.com/).
 
-3. [Materialize](https://materializecss.com/) UI components help in constructing attractive, consistent, and functional web pages and web apps, while adhering to modern web design principles such as browser portability, device independence, and graceful degradation.
-
-4. [Bootstrap](https://getbootstrap.com/) Quickly design and customize responsive.
+3. [Bootstrap](https://getbootstrap.com/) UI components help in constructing attractive, consistent, and functional web pages and web apps, while adhering to modern web design principles such as browser portability, device independence, and graceful degradation.
 ### Frameworks 
 1. [jQuery](https://jquery.com/) is a fast, small, and feature-rich JavaScript library. It was used in this project to simplify the DOM.
 
@@ -225,9 +222,9 @@ To run my code locally, users can download a local copy of my code to their desk
 ## Credits 
 
 ### Content
-* Modal Structure HTML and JavaScript code was taken from [Materialize Modals](https://materializecss.com/modals.html).
-* Forms Structure was taken from [Materialize Forms](https://materializecss.com/text-inputs.html).
-* NavBar HTML and JavaScript code was taken from [Materialize NavBar](https://materializecss.com/navbar.html).
+* Modal Structure HTML and JavaScript code was taken from [Start Bootstrap](https://startbootstrap.com/).
+* Forms Structure was taken from [Bootstrap](https://getbootstrap.com/).
+* NavBar HTML and JavaScript code was taken from [Start Bootstrap](https://startbootstrap.com/).
 
 ### Media 
 * Background Image was taken from [Google Images](https://www.google.dk/imghp?hl=en&tab=wi&authuser=0&ogbl) .
