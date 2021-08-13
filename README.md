@@ -148,7 +148,7 @@ Chrome DevTools is a set of web developer tools built directly into the Google C
 
 3. [Materialize](https://materializecss.com/) UI components help in constructing attractive, consistent, and functional web pages and web apps, while adhering to modern web design principles such as browser portability, device independence, and graceful degradation.
 
-4. [PyMongo](https://pymongo.readthedocs.io/en/stable/) was used as the Python API for MongoDB. This API enables linking the data from the back-end database to the front-end app.
+4. [Bootstrap](https://getbootstrap.com/) Quickly design and customize responsive.
 ### Frameworks 
 1. [jQuery](https://jquery.com/) is a fast, small, and feature-rich JavaScript library. It was used in this project to simplify the DOM.
 
